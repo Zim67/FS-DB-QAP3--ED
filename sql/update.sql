@@ -1,0 +1,1 @@
+UPDATE public.city SET, name=?, population=? WHERE <condition>;
